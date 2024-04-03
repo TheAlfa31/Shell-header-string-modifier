@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://github.com/TheAlfa31/Shell-header-string-modifier/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
+  <a href="https://github.com/TheAlfa31/Shell-header-string-modifier/stargazers"><img src="https://img.shields.io/github/stars/TheAlfa31/Shell-header-string-modifier
+" alt="Stars Badge"/></a>
 </div>
 
 # Shell header string modifier termux
