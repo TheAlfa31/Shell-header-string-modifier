@@ -1,4 +1,8 @@
-# Shell-header-string-modifier-termux
+<div align="center">
+  <a href="https://github.com/TheAlfa31/Shell-header-string-modifier/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
+</div>
+
+# Shell header string modifier termux
 This script translates the shell header string to the shell header string view in the kali linux root terminal.
 
 Copy for setup with a single command.
