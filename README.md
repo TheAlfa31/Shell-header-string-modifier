@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://github.com/TheAlfa31/Shell-header-string-modifier/stargazers"><img src="https://img.shields.io/github/stars/TheAlfa31/Shell-header-string-modifier" alt="Stars Badge"/>
   <a href="https://github.com/TheAlfa31/Shell-header-string-modifier/network/members"><img src="https://img.shields.io/github/forks/TheAlfa31/Shell-header-string-modifier" alt="Forks Badge"/></a>
-</div>
+  <a href="https://github.com/TheAlfa31/Shell-header-string-modifier/blob/master/LICENSE"><img src="https://img.shields.io/github/license/TheAlfa31/Shell-header-string-modifier" alt="License Badge"/></a>
+    
+ </div>
 
 # Shell header string modifier termux
 This script translates the shell header string to the shell header string view in the kali linux root terminal.
