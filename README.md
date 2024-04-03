@@ -6,6 +6,9 @@ Copy for setup with a single command.
 clear && git clone https://github.com/TheAlfa31/Shell-header-string-modifier && cd Shell-header-string-modifier && bash setup.sh
 
 
+# Contribute
+
+Contributions are always welcome! Please create a PR to add Github Profile.
 
 
 ## :man_astronaut: Show your support
